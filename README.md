@@ -1,4 +1,6 @@
 # 💫 About Me:
+🪴 "Passionate Backend Developer Enthusiast"
+--
 ☁️ I am currently participating in the Bangkit Program - Cloud Computing Batch 2, 2024.
 
 

@@ -38,6 +38,8 @@
 ###
 
 # 📊 GitHub Stats:
+![deku-midoriya](https://github.com/user-attachments/assets/6ef8ff0a-5ae4-4c3b-85e7-82fee2fac458)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdisetiakawan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdisetiakawan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 

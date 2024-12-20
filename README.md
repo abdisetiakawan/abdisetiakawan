@@ -49,17 +49,14 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=abdisetiakawan&theme=react&hide_border=true" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=abdisetiakawan&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdisetiakawan&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="top langs" />
 </div>
+<h3 align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</h3>
 
 <br/><br/>
 
 <hr/>
 
-<h3 align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</h3>
 
 <br/>

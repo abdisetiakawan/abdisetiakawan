@@ -53,10 +53,4 @@
 <h3 align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </h3>
-
-<br/><br/>
-
 <hr/>
-
-
-<br/>

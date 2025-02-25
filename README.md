@@ -28,8 +28,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=express,js,ts,go,php,py,bootstrap,vue,docker" />
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=ts,go,php,docker" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firestore" /><br>
 </div>
 
 <br/>

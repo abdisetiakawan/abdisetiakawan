@@ -6,14 +6,6 @@
 
 <br/>
 
-<div align="center">
- 
- ☁️ I'm currently participating in the **Bangkit Program - Cloud Computing Batch 2, 2024**
-
-💬 Ask me about **Express, HapiJS, or anything [here](https://github.com/abdisetiakawan/abdisetiakawan/issues)**
-
-</div>
- 
 <div align="center"> 
   <a href="https://linkedin.com/in/abdi-setiawan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -29,7 +21,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ts,go,php,docker" />
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firestore" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br>
 </div>
 
 <br/>
